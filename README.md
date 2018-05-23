@@ -1,4 +1,4 @@
-# Spring, Prometheus and Grafanna Example
+# Spring, Prometheus and Grafana Example
 
 ## Install
 
